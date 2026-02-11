@@ -1,16 +1,41 @@
-# blood_buddy
+# Blood Buddy 🩸
 
-A new Flutter project.
+A real-time blood donor finder app built using Flutter and Firebase.
+
+## Features
+- User authentication (Login/Register)
+- Donor registration
+- Real-time donor list
+- Search by blood group and location
+- Profile management
+- Edit donor details
+- Modern UI with bottom navigation
+
+## Tech Stack
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- Provider (state management)
+
+## Screens
+- Splash Screen
+- Login / Register
+- Home (Donor list)
+- Donor Enrol
+- Profile
+- Edit Profile
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Add your Firebase config files:
+- android/app/google-services.json
+- ios/Runner/GoogleService-Info.plist
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the app:
+
+## Author
+Vyshnav CK
